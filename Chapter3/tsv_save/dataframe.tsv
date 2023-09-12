@@ -1,0 +1,9 @@
+	Name	Born	Died	Age	Occupation	Born_dtypes	Died_dtypes	2_Born_Datetime	life_time	life_time2	Shuffled_age
+0	Rosaline Franklin	1920-07-25	1958-04-16	90	Chemist	1920-07-25	1958-04-16	1920-07-25	-13779 days	13779 days	
+1	William Gosset	1876-06-13	1937-10-16	56	Statistician	1876-06-13	1937-10-16	1876-06-13	-22404 days	22404 days	
+2	Florence Nightingale	1820-05-12	1910-08-13	77	Nurse	1820-05-12	1910-08-13	1820-05-12	-32964 days	32964 days	
+3	Marie Curie	1867-11-07	1934-07-04	61	Chemist	1867-11-07	1934-07-04	1867-11-07	-24345 days	24345 days	
+4	Rachel Carson	1907-05-27	1964-04-14	45	Biologist	1907-05-27	1964-04-14	1907-05-27	-20777 days	20777 days	
+5	John Snow	1813-03-15	1858-06-16	66	Physician	1813-03-15	1858-06-16	1813-03-15	-16529 days	16529 days	
+6	Alan Turing	1912-06-23	1954-06-07	41	Computer Scientist	1912-06-23	1954-06-07	1912-06-23	-15324 days	15324 days	
+7	Johann Gauss	1777-04-30	1855-02-23	37	Mathematician	1777-04-30	1855-02-23	1777-04-30	-28422 days	28422 days	
