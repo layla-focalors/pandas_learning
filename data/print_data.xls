@@ -1,0 +1,162 @@
+
+<html>
+<head>
+<title>Usage</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+<!--
+td { font-size: 9pt; color: #000000; line-height: 16px; font-family: Arial }
+.font3 { font-size: 12pt;line-height: 16px; font-family: Arial; font-weight:bold; }
+
+th {
+	font-size: 9pt;
+  background:#000080;
+  color:white;
+  border-color:White;
+}
+//-->
+</style>
+</head>
+<body topmargin="0">
+<table width="1000" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+
+      <table width="100%" border="1" cellpadding="0" cellspacing="0">
+                    <colgroup>
+                    	<col width="5%">
+                	    <col width="">
+                	    <col width="8%">
+                	    <col width="8%">
+                	    <col width="8%">
+                	    <col width="8%">
+                	    <col width="8%">
+                	    <col width="8%">
+                	    <col width="8%">
+                	    <col width="8%">
+                	    <col width="8%">
+                	    <col width="8%">
+                	    <col width="8%">                	    
+                    </colgroup>  
+                    <tr>
+                    	<th rowspan="2">번호</th>
+                	    <th rowspan="2">월</th>
+                      <th colspan="3">Print</th>
+                      <th colspan="3">Copy</th>
+                      <th rowspan="2">Scan</th>
+                      <th rowspan="2">Fax</th>
+                      <th colspan="3">총계</th>
+                   </tr>
+                   <tr>
+                   	 <th>흑백</th>
+                   	 <th>칼라</th>
+                   	 <th>계</th>
+                   	 <th>흑백</th>
+                   	 <th>칼라</th>
+                   	 <th>계</th>
+                   	 <th>흑백</th>
+                   	 <th>칼라</th>
+                   	 <th>계</th>                   	                    	 
+                   </tr>
+                
+                    <tr>
+                    	<td align="center">1</td>
+                      <td align="center">202310</td> 
+                      <td align="right">647</td>
+                      <td align="right">18</td>
+                      <td align="right">665</td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right">647</td>
+                      <td align="right">18</td>
+                      <td align="right">665</td>
+                    </tr>
+                
+                    <tr>
+                    	<td align="center">2</td>
+                      <td align="center">202309</td> 
+                      <td align="right">717</td>
+                      <td align="right"></td>
+                      <td align="right">717</td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right">717</td>
+                      <td align="right"></td>
+                      <td align="right">717</td>
+                    </tr>
+                
+                    <tr>
+                    	<td align="center">3</td>
+                      <td align="center">202306</td> 
+                      <td align="right">159</td>
+                      <td align="right"></td>
+                      <td align="right">159</td>
+                      <td align="right">23</td>
+                      <td align="right"></td>
+                      <td align="right">23</td>
+                      <td align="right">1</td>
+                      <td align="right"></td>
+                      <td align="right">182</td>
+                      <td align="right"></td>
+                      <td align="right">182</td>
+                    </tr>
+                
+                    <tr>
+                    	<td align="center">4</td>
+                      <td align="center">202305</td> 
+                      <td align="right">126</td>
+                      <td align="right">51</td>
+                      <td align="right">177</td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right">126</td>
+                      <td align="right">51</td>
+                      <td align="right">177</td>
+                    </tr>
+                
+                    <tr>
+                    	<td align="center">5</td>
+                      <td align="center">202304</td> 
+                      <td align="right">275</td>
+                      <td align="right">27</td>
+                      <td align="right">302</td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right">275</td>
+                      <td align="right">27</td>
+                      <td align="right">302</td>
+                    </tr>
+                
+                    <tr>
+                    	<td align="center">6</td>
+                      <td align="center">202303</td> 
+                      <td align="right">280</td>
+                      <td align="right"></td>
+                      <td align="right">280</td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right"></td>
+                      <td align="right">280</td>
+                      <td align="right"></td>
+                      <td align="right">280</td>
+                    </tr>
+                  </table>
+    <td>
+  </tr>
+</table>
+</body>
+</html>
