@@ -1,0 +1,8 @@
+def getString():
+    strs = """Guard: What? Ridden en a horse?
+    Queen Raiden : Yes!
+    Guard: You're using coconuts!
+    Queen Raiden : What?
+    Guard: You've Got . . . coconuts[s] and you're banagin' em together
+    """
+    return strs 
