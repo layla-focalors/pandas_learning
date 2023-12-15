@@ -1,6 +1,7 @@
 import os
 import datetime
 import random
+import time
 
 message = ['add new files','add new method', 'set new data', 'update new file', 'remake new']
 
@@ -11,3 +12,4 @@ while True:
     os.system(f'git commit -m "{value}"')
     os.system('git push')
     print(f"Last Commit : {datetime.datetime.now()}")
+    time.sleep(10)
